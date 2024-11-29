@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Deep_Learning_project/DS-677-Project/mlruns/0/6d557c2059774a1f8c386349af42eac0/artifacts
+end_time: 1732397222641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d557c2059774a1f8c386349af42eac0
+run_name: brawny-shrew-68
+run_uuid: 6d557c2059774a1f8c386349af42eac0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732395138858
+status: 3
+tags: []
+user_id: tejal
