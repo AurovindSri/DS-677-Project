@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/yash/Downloads/mlruns/0/99030bca5b404c2d8c900424cbeca3ec/artifacts
+end_time: 1733618619607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99030bca5b404c2d8c900424cbeca3ec
+run_name: 'NO dropout '
+run_uuid: 99030bca5b404c2d8c900424cbeca3ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733618103175
+status: 3
+tags: []
+user_id: yash
