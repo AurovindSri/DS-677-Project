@@ -1,17 +1,77 @@
-#Files and Contents:
--The best batch size, learning rate (LR), and dropout probability are determined through a systematic hyperparameter tuning process. A predefined hyperparameter space is created, combining all possible configurations of these parameters. For each configuration, the model is trained and evaluated on the validation set, tracking the weighted F1 score. The configuration with the highest validation F1 score is selected as the best. This approach ensures optimal balance between training stability, model generalization, and regularization effects.
+"# Deep Learning Experiments
 
-#DeepLearning_No_dropout.ipynb:
--1.The baseline model, with no dropout, with batch size 128 and LR 0.0005 is in the first cell of the file.
-2.In the second cell the code is for Horizontal flipping 0.5; batch size=128, LR=0.0005.
-3.In the third cell the code is for Horizontal flip 0.5, Mixup 0.5; Batch-128, LR-0.0005.
-4.In the fourth cell the code is for Horizontal Flipping 1.0 and Mixup 0.5; batch size 128, LR 0.001.
-5.In the fifth cell the code is for Horizontal flipping (1.0), batch size of 64, LR of 0.0005.
-6.In the sixth cell the code is for Horizontal Flipping 0.5 + Mixup 0.2: Batch size: 64, LR: 0.0005.
-7.In the last cell the code is for the data of both original and flipped images.
+This repository contains code and experiments for systematically tuning hyperparameters in deep learning models. The experiments focus on determining the best configurations for batch size, learning rate (LR), and dropout probability through hyperparameter tuning. The process involves:
 
-DeepLearning_dropout.ipynb:
-In this file the code demonstrates the effect of dropout in fully connected layers of a deep learning model with batch size 128 and LR of 0.001.
+1. Creating a predefined hyperparameter space combining all possible configurations.
+2. Training and evaluating each configuration on the validation set.
+3. Selecting the configuration with the highest validation weighted F1 score as the best.
 
-CNN_dropout_in_convolution_and_fcs.ipynb:
-In this file the code implements and experiments with dropout in convolutional layers and fully connected layers in a CNN architecture with batch size 128, and LR 0.001.
+This approach ensures optimal balance between training stability, model generalization, and regularization effects.
+
+---
+
+## Files and Contents
+
+### \`DeepLearning_No_dropout.ipynb\`
+This notebook contains baseline and augmented model experiments with no dropout applied. The following configurations are implemented:
+
+1. **Cell 1:** Baseline model with:
+   - Batch size: 128
+   - Learning rate (LR): 0.0005
+
+2. **Cell 2:** Horizontal flipping with a probability of 0.5:
+   - Batch size: 128
+   - LR: 0.0005
+
+3. **Cell 3:** Horizontal flipping (0.5) + Mixup (0.5):
+   - Batch size: 128
+   - LR: 0.0005
+
+4. **Cell 4:** Horizontal flipping (1.0) + Mixup (0.5):
+   - Batch size: 128
+   - LR: 0.001
+
+5. **Cell 5:** Horizontal flipping (1.0):
+   - Batch size: 64
+   - LR: 0.0005
+
+6. **Cell 6:** Horizontal flipping (0.5) + Mixup (0.2):
+   - Batch size: 64
+   - LR: 0.0005
+
+7. **Cell 7 (Last Cell):** Training with both original and flipped images.
+
+---
+
+### \`DeepLearning_dropout.ipynb\`
+This notebook demonstrates the effects of dropout applied in the fully connected layers of a deep learning model. The configuration used is:
+
+- Batch size: 128
+- LR: 0.001
+
+---
+
+### \`CNN_dropout_in_convolution_and_fcs.ipynb\`
+This notebook implements dropout in both convolutional and fully connected layers of a CNN architecture. The configuration used is:
+
+- Batch size: 128
+- LR: 0.001
+
+---
+
+## Usage
+- Clone this repository: \`git clone <repository-url>\`
+- Navigate to the project directory.
+- Open the notebooks in a Jupyter Notebook or any compatible environment to explore the code and results.
+
+## Contributions
+Feel free to contribute to this repository by suggesting new ideas, fixing issues, or improving the documentation.
+
+---
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+For further details or questions, please contact the project maintainer." > README.md
