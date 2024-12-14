@@ -2,8 +2,6 @@
 
 The repository contains Jupyter notebooks that contains the code that was used to run the experiments with CNN and Vision Transformer model. Metrics and model was also logged into mlflow which can be found inside mlruns folder. Then the API, Dockerfile and UI files can be found inside CloudDeployment folder.
 
----
-
 ## Overview
 
 This project successfully developed a robust image classification system by training a convolutional neural network (CNN) with strong classification performance. The CNN model was thoroughly evaluated and compared against alternative approaches, such as vision transformers. Common challenges like overfitting were addressed using advanced techniques, while training time was optimized through efficient resource management and hyperparameter tuning.Version control was effectively implemented for both the code and the neural network model, ensuring full traceability and reproducibility throughout the project. The final trained model has been deployed on the cloud, making it accessible via a API, enabling seamless integration into various applications.
