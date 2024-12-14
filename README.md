@@ -6,7 +6,7 @@ The repository contains Jupyter notebooks that contains the code that was used t
 
 ## Overview
 
-This project successfully developed a robust image classification system by training a convolutional neural network (CNN) with strong classification performance. The CNN model was thoroughly evaluated and compared against alternative approaches, such as vision transformers, demonstrating its effectiveness. Common challenges like overfitting were addressed using advanced techniques, while training time was optimized through efficient resource management and hyperparameter tuning.Version control was effectively implemented for both the code and the neural network model, ensuring full traceability and reproducibility throughout the project. The final trained model has been deployed on the cloud, making it accessible via a well-documented API, enabling seamless integration into various applications.
+This project successfully developed a robust image classification system by training a convolutional neural network (CNN) with strong classification performance. The CNN model was thoroughly evaluated and compared against alternative approaches, such as vision transformers. Common challenges like overfitting were addressed using advanced techniques, while training time was optimized through efficient resource management and hyperparameter tuning.Version control was effectively implemented for both the code and the neural network model, ensuring full traceability and reproducibility throughout the project. The final trained model has been deployed on the cloud, making it accessible via a API, enabling seamless integration into various applications.
 
 ## Dataset
 
@@ -14,5 +14,12 @@ This project uses the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.
 
 You can download the dataset [here](https://www.cs.toronto.edu/~kriz/cifar.html).
 
+## Contributors
+
+Yashwanth Renukunta 
+Aurovind Sri Pannir Selvam 
+Aadthithya Pattabiraman 
+Tejal Mahesh Desai 
 
 ---
+
