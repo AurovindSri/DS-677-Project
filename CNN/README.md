@@ -1,8 +1,8 @@
-Files and Contents:
-The best batch size, learning rate (LR), and dropout probability are determined through a systematic hyperparameter tuning process. A predefined hyperparameter space is created, combining all possible configurations of these parameters. For each configuration, the model is trained and evaluated on the validation set, tracking the weighted F1 score. The configuration with the highest validation F1 score is selected as the best. This approach ensures optimal balance between training stability, model generalization, and regularization effects.
+#Files and Contents:
+-The best batch size, learning rate (LR), and dropout probability are determined through a systematic hyperparameter tuning process. A predefined hyperparameter space is created, combining all possible configurations of these parameters. For each configuration, the model is trained and evaluated on the validation set, tracking the weighted F1 score. The configuration with the highest validation F1 score is selected as the best. This approach ensures optimal balance between training stability, model generalization, and regularization effects.
 
-DeepLearning_No_dropout.ipynb:
-1.The baseline model, with no dropout, with batch size 128 and LR 0.0005 is in the first cell of the file.
+#DeepLearning_No_dropout.ipynb:
+-1.The baseline model, with no dropout, with batch size 128 and LR 0.0005 is in the first cell of the file.
 2.In the second cell the code is for Horizontal flipping 0.5; batch size=128, LR=0.0005.
 3.In the third cell the code is for Horizontal flip 0.5, Mixup 0.5; Batch-128, LR-0.0005.
 4.In the fourth cell the code is for Horizontal Flipping 1.0 and Mixup 0.5; batch size 128, LR 0.001.
