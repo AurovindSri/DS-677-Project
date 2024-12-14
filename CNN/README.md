@@ -1,4 +1,4 @@
-### \Deep Learning Experiments\
+### Deep Learning Experiments
 
 This repository contains code and experiments for systematically tuning hyperparameters in deep learning models. The experiments focus on determining the best configurations for batch size, learning rate (LR), and dropout probability through hyperparameter tuning. The process involves:
 
@@ -12,7 +12,7 @@ This approach ensures optimal balance between training stability, model generali
 
 ## Files and Contents
 
-### \`DeepLearning_No_dropout.ipynb\`
+### DeepLearning_No_dropout.ipynb:
 This notebook contains baseline and augmented model experiments with no dropout applied. The following configurations are implemented:
 
 1. **Cell 1:** Baseline model with:
@@ -43,7 +43,7 @@ This notebook contains baseline and augmented model experiments with no dropout 
 
 ---
 
-### \`DeepLearning_dropout.ipynb\`
+### DeepLearning_dropout.ipynb:
 This notebook demonstrates the effects of dropout applied in the fully connected layers of a deep learning model. The configuration used is:
 
 - Batch size: 128
@@ -51,27 +51,9 @@ This notebook demonstrates the effects of dropout applied in the fully connected
 
 ---
 
-### \`CNN_dropout_in_convolution_and_fcs.ipynb\`
+### CNN_dropout_in_convolution_and_fcs.ipynb:
 This notebook implements dropout in both convolutional and fully connected layers of a CNN architecture. The configuration used is:
 
 - Batch size: 128
 - LR: 0.001
 
----
-
-## Usage
-- Clone this repository: \`git clone <repository-url>\`
-- Navigate to the project directory.
-- Open the notebooks in a Jupyter Notebook or any compatible environment to explore the code and results.
-
-## Contributions
-Feel free to contribute to this repository by suggesting new ideas, fixing issues, or improving the documentation.
-
----
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-For further details or questions, please contact the project maintainer." > README.md
