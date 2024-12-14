@@ -1,0 +1,21 @@
+artifact_path: tiny_vit_model
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.10.12
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.5.1+cu121
+mlflow_version: 2.19.0
+model_size_bytes: 22203302
+model_uuid: 0f9069c283d34e04a9da68a512826b98
+run_id: 9e964d4b5497476abb23ad3f1adc8e24
+utc_time_created: '2024-12-13 16:02:02.249056'

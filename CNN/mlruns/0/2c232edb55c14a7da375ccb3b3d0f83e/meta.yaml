@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/0/2c232edb55c14a7da375ccb3b3d0f83e/artifacts
+end_time: 1733770745811
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c232edb55c14a7da375ccb3b3d0f83e
+run_name: legendary-elk-603
+run_uuid: 2c232edb55c14a7da375ccb3b3d0f83e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733770337177
+status: 3
+tags: []
+user_id: root

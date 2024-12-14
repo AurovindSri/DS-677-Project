@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/yash/Downloads/mlruns/0/0c352b7e31034d6a84b7f048c98d250d/artifacts
+end_time: 1733626144360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c352b7e31034d6a84b7f048c98d250d
+run_name: horizontal flipping - 1 + mixup - 0.5
+run_uuid: 0c352b7e31034d6a84b7f048c98d250d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733625621537
+status: 3
+tags: []
+user_id: yash
