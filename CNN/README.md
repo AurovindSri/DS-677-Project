@@ -1,4 +1,4 @@
-"# Deep Learning Experiments
+### \Deep Learning Experiments\
 
 This repository contains code and experiments for systematically tuning hyperparameters in deep learning models. The experiments focus on determining the best configurations for batch size, learning rate (LR), and dropout probability through hyperparameter tuning. The process involves:
 
