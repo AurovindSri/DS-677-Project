@@ -16,10 +16,10 @@ You can download the dataset [here](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 ## Contributors
 
-Yashwanth Renukunta 
-Aurovind Sri Pannir Selvam 
-Aadthithya Pattabiraman 
-Tejal Mahesh Desai 
+- Yashwanth Renukunta 
+- Aurovind Sri Pannir Selvam 
+- Aadthithya Pattabiraman 
+- Tejal Mahesh Desai 
 
 ---
 
