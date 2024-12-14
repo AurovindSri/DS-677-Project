@@ -2,7 +2,6 @@
 
 This project provides an API for image classification using the best-performing model loaded into a FastAPI framework. The API is containerized using Docker, and a Streamlit-based UI is used to interact with the API for predictions.
 
----
 
 ## Folder Structure
 
@@ -16,7 +15,6 @@ CloudDeployment/
 ├── requirements.txt      # Dependencies for the API
 ```
 
----
 
 ## Features
 
@@ -24,8 +22,6 @@ CloudDeployment/
 - **Streamlit UI** to upload images and view predictions.
 - **Dockerized Deployment** for seamless setup and scaling.
 - **Supports Probabilistic Outputs** showing predictions along with confidence levels.
-
----
 
 ## How to Use
 
@@ -67,7 +63,6 @@ Make sure to update the API URL in the Streamlit app (`app.py`) to match the EC2
 ### 3. Security Group Configuration for EC2
 Ensure that the EC2 instance's security group allows incoming HTTP connections (port 80 or your configured Streamlit port) from the internet.
 
----
 
 ## Docker Image
 
@@ -82,15 +77,12 @@ sudo docker pull aurovind/deep-learning-project-image-classification
 sudo docker run -d -p 8000:8000 aurovind/deep-learning-project-image-classification
 ```
 
----
-
 ## Example Workflow
 
 1. Open the Streamlit UI in a browser.
 2. Upload an image.
 3. View the predicted label and associated probability.
 
----
 
 ## Dependencies
 
@@ -100,7 +92,6 @@ Install required Python libraries before running the project:
 pip install -r requirements.txt
 ```
 
----
 
 ## Notes
 
@@ -108,15 +99,6 @@ pip install -r requirements.txt
 - The API runs on port `8000` by default. This can be adjusted as needed in the Docker run command.
 - Ensure your EC2 instance's security group allows access to the relevant ports for both the API and UI.
 
----
 
-## Contribution
 
-Feel free to fork this repository and contribute by submitting pull requests.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
