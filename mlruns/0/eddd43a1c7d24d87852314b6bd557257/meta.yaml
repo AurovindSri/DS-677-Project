@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Deep_Learning_project/DS-677-Project/mlruns/0/eddd43a1c7d24d87852314b6bd557257/artifacts
+end_time: 1733074588650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eddd43a1c7d24d87852314b6bd557257
+run_name: big-wren-628
+run_uuid: eddd43a1c7d24d87852314b6bd557257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733071866112
+status: 3
+tags: []
+user_id: tejal

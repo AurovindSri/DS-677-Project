@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Deep_Learning_project/DS-677-Project/mlruns/0/41832934c0a7454ebe3cd0ca0a2edeb2/artifacts
+end_time: 1733434255718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41832934c0a7454ebe3cd0ca0a2edeb2
+run_name: capricious-crow-123
+run_uuid: 41832934c0a7454ebe3cd0ca0a2edeb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733433086974
+status: 4
+tags: []
+user_id: tejal

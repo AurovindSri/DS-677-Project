@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Deep_Learning_project/DS-677-Project/mlruns/0/8142ab4341374172b3183eb049ec4d1e/artifacts
+end_time: 1733439185768
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8142ab4341374172b3183eb049ec4d1e
+run_name: righteous-robin-705
+run_uuid: 8142ab4341374172b3183eb049ec4d1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733437794890
+status: 4
+tags: []
+user_id: tejal

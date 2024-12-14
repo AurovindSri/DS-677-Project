@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Deep_Learning_project/DS-677-Project/mlruns/0/da1dd112cf2d4903840b03128564bee1/artifacts
+end_time: 1733431493985
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da1dd112cf2d4903840b03128564bee1
+run_name: unleashed-fly-534
+run_uuid: da1dd112cf2d4903840b03128564bee1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733429609661
+status: 4
+tags: []
+user_id: tejal

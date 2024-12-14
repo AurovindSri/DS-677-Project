@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/0/9da025bf0fd54596b84d7c72f0a70bd0/artifacts
+end_time: 1733698802848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9da025bf0fd54596b84d7c72f0a70bd0
+run_name: salty-dolphin-641
+run_uuid: 9da025bf0fd54596b84d7c72f0a70bd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733695121878
+status: 3
+tags: []
+user_id: root

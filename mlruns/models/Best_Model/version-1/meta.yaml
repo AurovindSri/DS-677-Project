@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1733090240164
+current_stage: None
+description: ''
+last_updated_timestamp: 1733090240164
+name: Best_Model
+run_id: 36449e08c0474cb48f82638964c5d003
+run_link: ''
+source: file:///c:/Deep_Learning_project/DS-677-Project/mlruns/0/36449e08c0474cb48f82638964c5d003/artifacts/cnn_model
+status: READY
+status_message: null
+storage_location: file:///c:/Deep_Learning_project/DS-677-Project/mlruns/0/36449e08c0474cb48f82638964c5d003/artifacts/cnn_model
+user_id: null
+version: 1

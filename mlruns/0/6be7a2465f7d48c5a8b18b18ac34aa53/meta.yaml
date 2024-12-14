@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Deep_Learning_project/DS-677-Project/mlruns/0/6be7a2465f7d48c5a8b18b18ac34aa53/artifacts
+end_time: 1733091147875
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6be7a2465f7d48c5a8b18b18ac34aa53
+run_name: brawny-midge-124
+run_uuid: 6be7a2465f7d48c5a8b18b18ac34aa53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733089325503
+status: 3
+tags: []
+user_id: tejal

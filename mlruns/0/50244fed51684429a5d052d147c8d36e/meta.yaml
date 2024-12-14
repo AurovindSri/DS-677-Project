@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Deep_Learning_project/DS-677-Project/mlruns/0/50244fed51684429a5d052d147c8d36e/artifacts
+end_time: 1733369895125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50244fed51684429a5d052d147c8d36e
+run_name: treasured-sloth-106
+run_uuid: 50244fed51684429a5d052d147c8d36e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733365071500
+status: 4
+tags: []
+user_id: tejal

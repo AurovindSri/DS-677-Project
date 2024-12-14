@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Deep_Learning_project/DS-677-Project/mlruns/0/dda12db703cb4d4997ae1d8fd9d24544/artifacts
+end_time: 1733069762569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dda12db703cb4d4997ae1d8fd9d24544
+run_name: merciful-ox-206
+run_uuid: dda12db703cb4d4997ae1d8fd9d24544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733067498569
+status: 3
+tags: []
+user_id: tejal

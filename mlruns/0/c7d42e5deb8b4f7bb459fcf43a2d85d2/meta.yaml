@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Deep_Learning_project/DS-677-Project/mlruns/0/c7d42e5deb8b4f7bb459fcf43a2d85d2/artifacts
+end_time: 1733283232065
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7d42e5deb8b4f7bb459fcf43a2d85d2
+run_name: shivering-asp-987
+run_uuid: c7d42e5deb8b4f7bb459fcf43a2d85d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733279152927
+status: 3
+tags: []
+user_id: tejal

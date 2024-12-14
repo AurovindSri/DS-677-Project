@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Deep_Learning_project/DS-677-Project/mlruns/0/b24529b727a24d2ab8895027838df444/artifacts
+end_time: 1733085188778
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b24529b727a24d2ab8895027838df444
+run_name: big-hen-801
+run_uuid: b24529b727a24d2ab8895027838df444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733083697943
+status: 3
+tags: []
+user_id: tejal
